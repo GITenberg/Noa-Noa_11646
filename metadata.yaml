@@ -1,0 +1,34 @@
+_repo: Noa-Noa_11646
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Gauguin, Paul
+    aliases:
+    - Gauguin, Eugène Henri Paul
+    - Gauguin, Eugene Henri Paul
+    birthdate: 1848
+    deathdate: 1903
+    gutenberg_agent_id: '4057'
+    url: http://www.gutenberg.org/2009/agents/4057
+    wikipedia: http://fr.wikipedia.org/wiki/Paul_Gauguin
+  - agent_name: Morice, Charles
+    birthdate: 1861
+    deathdate: 1919
+    gutenberg_agent_id: '40244'
+    url: http://www.gutenberg.org/2009/agents/40244
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11646'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tahiti (French Polynesia : Island)'
+- !lcc 'ND'
+- GITenberg
+title: Noa Noa
+url: http://www.gutenberg.org/ebooks/11646
